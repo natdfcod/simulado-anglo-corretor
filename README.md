@@ -1,2 +1,1 @@
-um código feito em Python que mostra como corrigi minha prova e dos meus amigos simplesmente rodando o código e colocando as alternativas no terminal: ACDABDC.......
-o codigo disponibiliza tambem quais quetões você acerto e errou, a nota se a prova toda valer 10 e a nota de cada materia (pensando que cada uma vale 4, pois é assim na minha escola).
+
